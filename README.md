@@ -148,4 +148,4 @@ This repository serves as the official landing page for SQLite Expert Personal. 
 **Get the most recent version of SQLite Expert Personal today!**
 
 ---
-**Last updated:** 2026-11-12 19:25:27 UTC
+**Last updated:** 2026-11-13 00:46:39 UTC
